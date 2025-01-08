@@ -1,0 +1,160 @@
+{
+    "categories": {
+        "academic": {
+            "homework": [
+                "Lost the file due to a computer crash",
+                "Misunderstood the instructions and did it incorrectly",
+                "Needed more time to do the research thoroughly",
+                "Printer ran out of ink just before submission",
+                "Family emergency left no time to complete it"
+            ],
+            "class absence": [
+                "Felt too unwell to attend",
+                "Had a conflicting appointment I couldn’t miss",
+                "Missed the bus and had no other way to get there",
+                "Had to stay back to help a sibling or parent"
+            ]
+        },
+        "family": {
+            "visit": [
+                "Work ran late unexpectedly",
+                "Needed to handle a surprise home repair",
+                "Was too exhausted from a hectic week",
+                "Child got sick and needed care",
+                "Confused the date and thought it was tomorrow",
+                "Had to finish a work task before I could leave",
+                "Stomach upset forced me to stay close to home"
+            ],
+            "event": [
+                "Car wouldn't start and had to call for assistance",
+                "Needed to stay home to handle a delivery",
+                "Weather conditions were too dangerous to travel",
+                "Mixed up the event time in my calendar",
+                "Was feeling unwell and didn’t want to spread anything",
+                "Didn’t feel comfortable attending a large gathering",
+                "Got caught up in an emergency with a friend"
+            ]
+        },
+        "hobbies_leisure": {
+            "club_meeting": [
+                "I completely forgot it was today because of a busy schedule.",
+                "My car broke down on the way, and I couldn't make it.",
+                "I wasn’t feeling mentally prepared to attend this time.",
+                "I had to prioritize work that came up unexpectedly.",
+                "I got the time wrong and showed up late."
+            ],
+            "event_participation": [
+                "I misplaced my equipment and couldn’t participate.",
+                "I underestimated how long my earlier commitments would take.",
+                "The weather suddenly turned bad, making it unsafe to travel.",
+                "A family emergency came up right before I was about to leave.",
+                "I wasn’t feeling motivated or ready to perform today."
+            ]
+        },
+        "personal": {
+            "appointment": [
+                "Completely forgot due to an overwhelming schedule",
+                "Got stuck in traffic or public transit delays",
+                "Was running behind due to an earlier task",
+                "Lost track of time during an urgent phone call",
+                "Unexpected issue came up that needed immediate attention"
+            ],
+            "cancel": [
+                "Feeling under the weather and didn't want to risk it",
+                "Emergency with a family member came up",
+                "Wasn't feeling up for it mentally or physically",
+                "Unexpected work deadline cropped up",
+                "Caught up in an issue I couldn’t walk away from"
+            ]
+        },
+        "social": {
+            "party": [
+                "Had a migraine and needed to rest",
+                "Lost track of time after another commitment",
+                "Got stuck in traffic longer than expected",
+                "Realized too late I had the wrong address",
+                "Pet needed emergency attention",
+                "Forgot it was today and made other plans",
+                "Needed to care for an unexpected guest",
+                "Was feeling overwhelmed and decided to rest"
+            ],
+            "call": [
+                "Was attending a sudden in-person meeting",
+                "Forgot to unmute and missed the call notification",
+                "Technical issues with the video conferencing app",
+                "Got distracted while helping someone at home",
+                "Forgot phone at home while running errands",
+                "Was in the middle of an unexpected visitor drop-in",
+                "Background noise made it impossible to take the call",
+                "Another urgent call came up simultaneously"
+            ]
+        },
+        "travel": {
+            "delayed_arrival": [
+                "I got stuck in traffic because of a road closure.",
+                "I forgot something important and had to return home to get it.",
+                "The taxi I booked didn’t show up, and I had to wait for another.",
+                "My alarm didn’t go off, and I left later than planned."
+            ],
+            "canceled_trip": [
+                "I wasn’t feeling well and decided it was safer to stay home.",
+                "I realized I couldn’t afford the trip this month.",
+                "A work emergency came up, and I had to cancel last minute.",
+                "The weather forecast showed dangerous conditions, so I postponed."
+            ]
+        },
+        "work": {
+            "late": [
+                "Got caught in an unexpected road closure",
+                "Accidentally set alarm for PM instead of AM",
+                "Sudden car tire puncture",
+                "Unexpected last-minute childcare issue",
+                "Overslept due to illness",
+                "Forgot an important document at home and had to return",
+                "Needed to drop my child off unexpectedly"
+            ],
+            "deadline": [
+                "Received critical last-minute edits from the client",
+                "Underestimated the scope of the project",
+                "Had to assist a colleague with an urgent task",
+                "Unexpected system update caused delays",
+                "Was waiting for input from another team",
+                "Had to prioritize another urgent task",
+                "Unforeseen complexity in the task required extra time",
+                "Colleague who was assisting was unavailable"
+            ]
+        },
+        "work_from_home": {
+            "late_login": [
+                "The internet went out for a while, and I couldn’t connect on time.",
+                "I got caught up helping my child with something urgent.",
+                "The plumber arrived unexpectedly, and I had to deal with it.",
+                "I wasn’t feeling well and overslept.",
+                "I miscalculated how much time I needed to prepare for the day."
+            ],
+            "missed_meeting": [
+                "I misread the meeting time and thought it was later.",
+                "I couldn’t connect because my video conferencing app wasn’t working.",
+                "I had to attend to an urgent matter with my family.",
+                "I was handling another work task and lost track of time.",
+                "My phone or laptop battery died, and I missed the notification."
+            ]
+        },
+        "miscellaneous": {
+            "errand_postponement": [
+                "The store was unexpectedly closed when I got there.",
+                "I forgot my shopping list and decided to go later.",
+                "Traffic was unusually bad, so I couldn’t make it in time.",
+                "A last-minute family obligation came up.",
+                "I was too exhausted from work and needed to rest."
+            ],
+            "missed_deadline": [
+                "I misunderstood the instructions and had to redo part of the task.",
+                "The file I was working on got corrupted, and I had to start over.",
+                "I overestimated how much I could complete in one sitting.",
+                "I was waiting for input from a colleague and couldn’t finish on time.",
+                "A power outage interrupted my work, delaying progress."
+            ]
+        }
+    }
+}
